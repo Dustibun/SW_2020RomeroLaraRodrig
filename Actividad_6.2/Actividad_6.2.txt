@@ -1,0 +1,3 @@
+(?<=\W)(?<=[\,|\"|\'|\(])(R|r)egex(?<=\")|(?<=\W)(R|r)egex(?=\]|\"|\,|\'|\)])(?=\W)|^(R|r)egex(?=\W)|(?<=\W)(R|r)egex$
+
+regex es algo genial. Hola soy un texto random	que tiene la palabra "regex" 'regex' "regex cool' escondida escondiregexda gracias a mi Regex, es posible regexpoderoso estoregex, y [Regex] mira (regex es curioso) (regex es curioso] mi dedo jaja Regex. O Regex
