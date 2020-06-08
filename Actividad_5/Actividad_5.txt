@@ -1,0 +1,13 @@
+^Drogas [0-3][1-9]\/[01][1-9]\/20([0-1][5-9]|20)
+Drogas 22/10/2008 Hernández, Ernesto
+Drogas 19/09/2018 Fernández, Pedro
+Drogas 16/03/2005 Pérez, Ratón
+Drogas 25/10/2018 Juárez, Miguel
+Drogas 17/12/2006 Cebolla, Shrek
+Drogas 19/01/2016 Juárez, Matilda
+Drogas 02/01/2006 Juárez, Benito
+Drogas 24/05/2016 Pana, Miguel
+Drogas 29/10/2019 Hernández, Susana
+Drogas 15/08/2017 Cruz, Ernesto
+Drogas 07/03/2005 López-Gatell, Ana
+Drogas 06/07/2008 Shang, Jorge
